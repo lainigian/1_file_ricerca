@@ -9,6 +9,7 @@ package com.mycompany._file_ricerca;
  *
  * @author Gian
  */
-public class Main {
+public class Main 
+{
     
 }
