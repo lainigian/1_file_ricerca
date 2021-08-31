@@ -1,0 +1,9 @@
+Rossi Mario;3932587854;via del mare 12
+Bianchi Giovanni;3932475784;via Roma 14
+Verdi Carla;58785545214;piazza Garibaldi 21
+Rossini Giuseppe;5447887895;viale Marconi 1
+Neri Maria;7845669878;corso Mazzini 56
+Bianchi Andrea;7854778789;viale Italia 144
+Neri Daniele;8754221456;via Leopardi 5
+Banto Luigi;2145447875;via del pesce 12
+Bassi Carlo;3977487854;via del corso 34
